@@ -1,5 +1,6 @@
 #include<stdio.h>
-void main(){
+void main()
+{
   char ch;
   printf("Enter the character to check the ascii value");
   scanf("%c",&ch);
