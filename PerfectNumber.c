@@ -1,4 +1,4 @@
-// To check whether a number is perfect or not 
+//To check whether a number is perfect or not 
 #include <stdio.h>
 void main() {
     int n,i,sum=0;
