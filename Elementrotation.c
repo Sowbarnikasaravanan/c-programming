@@ -17,7 +17,7 @@ void main(){
        }
        a[0]=temp;
     }
-     printf("The elements after the %d rotation",t);
+     printf("The elements after %d rotations",t);
      for(k=0;k<n;k++){
         printf("%d ",a[k]);
      }
