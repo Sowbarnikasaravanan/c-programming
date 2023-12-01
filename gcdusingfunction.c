@@ -1,4 +1,4 @@
-//To find the gcd using function
+//To find the gcd using function 
 #include<stdio.h>
 int gcd(int,int);
 void main(){
