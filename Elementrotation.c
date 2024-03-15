@@ -1,7 +1,7 @@
 // To rotate the array element on clockwise direction based on the user input
 #include<stdio.h>
 void main(){
-   int  a[10],i,j,n,t,k,temp;
+   int  a[20],i,j,n,t,k,temp;
    printf("enter the size of array");
    scanf("%d",&n);
    printf("enter the elements  to an array :");
