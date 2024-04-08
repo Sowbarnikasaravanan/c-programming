@@ -16,12 +16,3 @@ void main(){
   s=sum(n);
   printf("The sum of first %d natural number is:%d",n,s);
 }
-int sum(int n){
-    if(n==0){
-      return 0;
-    }
-    else{
-      return n+sum(n-1);
-    }  
-}
-      
