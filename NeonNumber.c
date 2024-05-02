@@ -1,7 +1,6 @@
 /*To check whether the number is neon or not 
 The sum of the digits of the square of a number 
-9 => 9*9=81 => 8+1=9
-*/
+9 => 9*9=81 => 8+1=9  */
 #include<stdio.h>
 void main(){
     int num,sq,sum,rem=0;
