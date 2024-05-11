@@ -1,4 +1,10 @@
-//To display the right half pyramid 
+/* To display the right half pyramid 
+    *
+   **
+  ***
+ ****
+*****
+*/
 void main(){
     int i,j,k,num;
     printf("Enter the number of rows:");
